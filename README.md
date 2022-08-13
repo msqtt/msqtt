@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[!img](./gif.gif)
+![img](./gif.gif)
 
 <!--
 **mosqu1t0/mosqu1t0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

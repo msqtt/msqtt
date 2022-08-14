@@ -2,7 +2,7 @@
 
 ![img](./gif.gif)
 
-There is nothing.
+There is nothing special.
 <!--
 **mosqu1t0/mosqu1t0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
